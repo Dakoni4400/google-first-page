@@ -2,7 +2,7 @@
 
 ## Usage
 
-This package makes your app appear on the first page of google in an instant
+This package makes your app appear on the first page of google in an instant!
 
 ## Installation
 
